@@ -2596,6 +2596,8 @@ input, select, textarea {
 
 	.gambar img {
 		display: block;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	.gambar.left, .gambar.right {
